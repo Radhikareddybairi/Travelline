@@ -68,7 +68,7 @@
 
          <artifactId>spring-security-web</artifactId>
 
-         <version>5.2.0.RELEASE</version>
+         <version>5.2.10.RELEASE</version>
 
       </dependency>
 
